@@ -1,7 +1,7 @@
 **Explanatory Insights on Sleep Patterns**
 
 
-This project provides an Exploratory Data Insignts on sleep data. The analysis focuses on uncovering patterns, trends, and correlations in sleep behavior, as well as providing insights into various aspects of sleep metrics like sleep duration, sleep quality, and sleep stages.
+This project provides an Exploratory Data Insights on sleep data. The analysis focuses on uncovering patterns, trends, and correlations in sleep behavior, as well as providing insights into various aspects of sleep metrics like sleep duration, sleep quality, and sleep stages.
 
 **Dataset**
 
@@ -13,7 +13,7 @@ Age: The age of the user
 
 Gender: The user's gender.
 
-Sleep Quality: A measure of the quality of sleep (e.g., REM, deep, light sleep percentages).
+Sleep Quality: A measure of the quality of sleep on a scale 0f 10.
 
 Bedtime: The time the user goes to bed.
 
