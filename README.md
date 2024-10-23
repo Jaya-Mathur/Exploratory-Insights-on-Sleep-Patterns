@@ -1,9 +1,9 @@
-***/Explanatory Insights on Sleep Patterns/**
+**Explanatory Insights on Sleep Patterns**
 
 
 This project provides an Exploratory Data Insignts on sleep data. The analysis focuses on uncovering patterns, trends, and correlations in sleep behavior, as well as providing insights into various aspects of sleep metrics like sleep duration, sleep quality, and sleep stages.
 
-**/Dataset/**
+**Dataset**
 
 The dataset used in this analysis includes sleep-related metrics such as sleep duration, quality, and various health-related factors. The key attributes of the dataset are:
 
@@ -20,12 +20,11 @@ Dietary Habits: Information on the user's diet and eating habits.
 Sleep Disorders: Any reported sleep disorders (e.g., insomnia, sleep apnea).
 Medication Usage: Details on any medications taken that may affect sleep.
 
-**/Data Source/**
+**Data Source**
 The dataset used in this project is attached in the repository by the name of Health and Sleep Statistics, which has been extracted from Kaggle. It contains various health metrics and sleep statistics crucial for the analysis.
 
-**/Project Overview/**
+**Project Overview**
 The project aims to:
-
 Explore sleep data using various statistical and visual analysis methods.
 Identify patterns and trends in sleep behavior.
 Uncover correlations between different sleep factors and overall sleep quality.
